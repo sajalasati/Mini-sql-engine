@@ -1,5 +1,5 @@
 # Mini-sql-engine
-A mini SQL engine like MySQL (but fewer functionalties only) implemented using Python
+A mini sql engine like MySQL (but with fewer functionalties) implemented using Python
 
 ## Usage
 - The code has been developed and tested on __Python 3__.
